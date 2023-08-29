@@ -4,462 +4,166 @@
 Usinig Html, Css, php, Js.
 
 <!doctype html>
-
 <html lang="en">
+<head>
+    <!-- META -->
+    <meta charset="utf-8">
+    <meta name="robots" content="noodp">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
    
+    <!-- PAGE TITLE -->
+    <title>Dileep_Kumar - CV</title>
    
-    <head>
-       
-       
-        <!-- META -->
-        <meta charset="utf-8">
-        <meta name="robots" content="noodp">
-        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-       
-        <!-- PAGE TITLE -->
-        <title>Dileep_Kumar -CV</title>
-       
-        <!-- FAVICON -->
-        <link rel="shortcut icon" href="assets/img/favicon.png">
-       
-        <!-- FONTS -->
-        <link href="https://fonts.googleapis.com/css?family=Abril+Fatface%7CArapey&amp;subset=latin-ext" rel="stylesheet">
-       
-        <!-- STYLESHEETS -->
-        <link rel="stylesheet" type="text/css" href="assets/css/plugins.css">
-        <link rel="stylesheet" type="text/css" href="assets/css/main.css">
-        
-        
-    </head>
-
+    <!-- FAVICON -->
+    <link rel="shortcut icon" href="assets/img/favicon.png">
    
-    <body>
-    
-       
-        <!-- PRELOADER -->
-        <div class="preloader">
-           
-            <div class="spinner"></div>
-            
-        </div>
-        <!-- /PRELOADER -->
-    
-        
-        <!-- IMAGE CONTAINER -->
-        <div class="image-container">
-           
-            <div class="background-img"></div>
+    <!-- FONTS -->
+    <link href="https://fonts.googleapis.com/css?family=Abril+Fatface%7CArapey&amp;subset=latin-ext" rel="stylesheet">
+   
+    <!-- STYLESHEETS -->
+    <link rel="stylesheet" type="text/css" href="assets/css/plugins.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/main.css">
+</head>
+<body>
+    <!-- PRELOADER -->
+    <div class="preloader">
+        <div class="spinner"></div>
+    </div>
+    <!-- /PRELOADER -->
 
-        </div>
-        <!-- /IMAGE CONTAINER -->
+    <!-- IMAGE CONTAINER -->
+    <div class="image-container">
+        <div class="background-img"></div>
+    </div>
+    <!-- /IMAGE CONTAINER -->
 
+    <!-- CONTENT AREA -->
+    <div class="content-area">
+        <!-- CONTENT AREA INNER --> 
+        <div class="content-area-inner">
 
-        <!-- CONTENT AREA -->
-        <div class="content-area">
-
-
-            <!-- CONTENT AREA INNER --> 
-            <div class="content-area-inner">
-
-
-                <!-- INTRO -->
-                <section id="intro">
-
-
-                    <!-- CONTAINER MID -->
-                    <div class="container-mid">
-
-                       
-                        <!-- ANIMATION CONTAINER -->
-                        <div class="animation-container animation-fade-down" data-animation-delay="0">
-                        
-                            <h1>I’m Dileep Kumar,</h1>
-                        
-                        </div>
-                        <!-- /ANIMATION CONTAINER -->
-                        
-                        
-                        <!-- ANIMATION CONTAINER -->
-                        <div class="animation-container animation-fade-left" data-animation-delay="300">
-                           
-                            <p class="subline">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc condimentum lacinia molestie. Phasellus vehicula ornare odio, blandit commodo nisl dapibus vel. Sed vel fermentum elit.</p>
-                            
-                        </div>
-                        <!-- /ANIMATION CONTAINER -->
-                        
-                        
-                        <!-- ANIMATION CONTAINER -->
-                        <div class="animation-container animation-fade-up" data-animation-delay="600">
-                           
-                            <a href="#about" class="smooth-scroll">Learn More<i class="fa fa-angle-down" aria-hidden="true"></i></a>
-                            
-                        </div>
-                        <!-- /ANIMATION CONTAINER -->
-
-
+            <!-- INTRO -->
+            <section id="intro">
+                <!-- CONTAINER MID -->
+                <div class="container-mid">
+                    <!-- ANIMATION CONTAINER -->
+                    <div class="animation-container animation-fade-down" data-animation-delay="0">
+                        <h1>I’m Dileep Kumar,</h1>
                     </div>
-                    <!-- /CONTAINER MID -->
-
-
-                </section>
-                <!-- /INTRO -->
-
-
-                <!-- ABOUT -->
-                <section id="about">
-
-
-                    <h3 class="headline scroll-animated-from-right">Why I can help you.</h3>
+                    <!-- /ANIMATION CONTAINER -->
                     
-                    <p class="scroll-animated-from-right">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam semper faucibus eros, quis imperdiet sapien. Nam sodales nec risus nec interdum. Proin lobortis, ex condimentum ultricies eleifend, nisl nunc sollicitudin odio, eget egestas est turpis et metus. In non ligula quis mauris rutrum porta.</p>
-
-                    <p class="scroll-animated-from-right">Duis consectetur massa sit amet nibh rhoncus, at pharetra ligula aliquet. Ut ac velit vestibulum, eleifend diam ut, malesuada nisi. Sed vel felis vitae diam luctus commodo. Nunc ipsum est, vulputate id orci ac, luctus consectetur sapien.</p>
-
-
-                </section>
-                <!-- /ABOUT -->
-                
-                
-                <!-- SERVICE -->
-                <section id="service">
-
-
-                    <h3 class="headline scroll-animated-from-right">What I can do for you.</h3>
-                    
-                    
-                    <!-- SERVICE LIST -->
-                    <ul class="services-list">
-                       
-                       
-                        <li class="scroll-animated-from-right"><i class="fa fa-robot-o" aria-hidden="true"></i>Machine Learning</li>
-                        <li class="scroll-animated-from-right"><i class="fa fa-eye" aria-hidden="true"></i>Design Direction</li>
-                        <li class="scroll-animated-from-right"><i class="fa fa-database" aria-hidden="true"></i>Product Design</li>
-                        <li class="scroll-animated-from-right"><i class="fa fa-television" aria-hidden="true"></i>Web Design</li>
-                        <li class="scroll-animated-from-right"><i class="fa fa-square-o" aria-hidden="true"></i>UI & UX Design</li>
-                        
-                        
-                    </ul>
-                    <!-- /SERVICE LIST -->
-
-
-                </section>
-                <!-- /SERVICE -->
-                
-                
-                <!-- WORK -->
-                <section id="work">
-
-
-                    <h3 class="headline scroll-animated-from-right">My latest Work.</h3>
-                    
-                    
-                    <!-- SHOWCASE -->
-                    <div class="showcase">
-                       
-                       
-                        <!-- ITEM -->
-                        <div class="item scroll-animated-from-right">
-                          
-                          
-                            <!-- LIGHTBOX LINK -->
-                            <a href="#" data-featherlight="#item-1-lightbox">
-                            
-                            
-                                <!-- INFO -->
-                                <div class="info">
-
-
-                                    <!-- CONTAINER MID -->
-                                    <div class="container-mid">
-
-                                        <h5>Fashion Inc.</h5>
-                                        <p>Web Design</p>
-
-                                    </div>
-                                    <!-- /CONTAINER MID -->
-
-
-                                </div>
-                                <!-- /INFO -->
-
-
-                                <div class="background-image" style="background-image: url(assets/img/work/item-1.jpg)"></div>
-
-                           
-                            </a>
-                            <!-- /LIGHTBOX LINK -->
-                            
-                            
-                            <!-- LIGHTBOX -->
-                            <div id="item-1-lightbox" class="work-lightbox">
-                               
-                               
-                                <img class="img-responsive" src="assets/img/work/item-1.jpg" alt="image">
-                                
-                                <h3>Automated Dectation Diabetic Retinopathy .</h3>
-                                <p class="subline">Web Design</p>
-                                
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam semper faucibus eros, quis imperdiet sapien. Nam sodales nec risus nec interdum. Proin lobortis, ex condimentum ultricies eleifend, nisl nunc sollicitudin odio, eget egestas est turpis et metus. In non ligula quis mauris rutrum porta.</p>
-                                
-                                
-                            </div>
-                            <!-- /LIGHTBOX -->
-                            
-                            
-                        </div>
-                        <!-- /ITEM -->
-                        
-                        
-                        <!-- ITEM -->
-                        <div class="item scroll-animated-from-right">
-                          
-                          
-                            <!-- LIGHTBOX LINK -->
-                            <a href="#" data-featherlight="#item-2-lightbox">
-                            
-                            
-                                <!-- INFO -->
-                                <div class="info">
-
-
-                                    <!-- CONTAINER MID -->
-                                    <div class="container-mid">
-
-                                        <h5>Asimov 71</h5>
-                                        <p>Product Design</p>
-
-                                    </div>
-                                    <!-- /CONTAINER MID -->
-
-
-                                </div>
-                                <!-- /INFO -->
-
-
-                                <div class="background-image" style="background-image: url(assets/img/work/item-2.jpg)"></div>
-
-                           
-                            </a>
-                            <!-- /LIGHTBOX LINK -->
-                            
-                            
-                            <!-- LIGHTBOX -->
-                            <div id="item-2-lightbox" class="work-lightbox">
-                               
-                               
-                                <img class="img-responsive" src="assets/img/work/item-2.jpg" alt="image">
-                                
-                                <h3>Asimov 71</h3>
-                                <p class="subline">Product Design</p>
-                                
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam semper faucibus eros, quis imperdiet sapien. Nam sodales nec risus nec interdum. Proin lobortis, ex condimentum ultricies eleifend, nisl nunc sollicitudin odio, eget egestas est turpis et metus. In non ligula quis mauris rutrum porta.</p>
-                                
-                                
-                            </div>
-                            <!-- /LIGHTBOX -->
-                            
-                            
-                        </div>
-                        <!-- /ITEM -->
-                        
-                        
-                        <!-- ITEM -->
-                        <div class="item scroll-animated-from-right">
-                          
-                          
-                            <!-- LIGHTBOX LINK -->
-                            <a href="#" data-featherlight="#item-3-lightbox">
-                            
-                            
-                                <!-- INFO -->
-                                <div class="info">
-
-
-                                    <!-- CONTAINER MID -->
-                                    <div class="container-mid">
-
-                                        <h5>Hardley &amp; Sons</h5>
-                                        <p>Design Direction</p>
-
-                                    </div>
-                                    <!-- /CONTAINER MID -->
-
-
-                                </div>
-                                <!-- /INFO -->
-
-
-                                <div class="background-image" style="background-image: url(assets/img/work/item-3.jpg)"></div>
-
-                           
-                            </a>
-                            <!-- /LIGHTBOX LINK -->
-                            
-                            
-                            <!-- LIGHTBOX -->
-                            <div id="item-3-lightbox" class="work-lightbox">
-                               
-                               
-                                <img class="img-responsive" src="assets/img/work/item-3.jpg" alt="image">
-                                
-                                <h3>Hardley &amp; Sons</h3>
-                                <p class="subline">Design Direction</p>
-                                
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam semper faucibus eros, quis imperdiet sapien. Nam sodales nec risus nec interdum. Proin lobortis, ex condimentum ultricies eleifend, nisl nunc sollicitudin odio, eget egestas est turpis et metus. In non ligula quis mauris rutrum porta.</p>
-                                
-                                
-                            </div>
-                            <!-- /LIGHTBOX -->
-                            
-                            
-                        </div>
-                        <!-- /ITEM -->
-                        
-                        
-                        <!-- ITEM -->
-                        <div class="item scroll-animated-from-right">
-                          
-                          
-                            <!-- LIGHTBOX LINK -->
-                            <a href="#" data-featherlight="#item-4-lightbox">
-                            
-                            
-                                <!-- INFO -->
-                                <div class="info">
-
-
-                                    <!-- CONTAINER MID -->
-                                    <div class="container-mid">
-
-                                        <h5>Starnation</h5>
-                                        <p>UI/UX DESIGN</p>
-
-                                    </div>
-                                    <!-- /CONTAINER MID -->
-
-
-                                </div>
-                                <!-- /INFO -->
-
-
-                                <div class="background-image" style="background-image: url(assets/img/work/item-4.jpg)"></div>
-
-                           
-                            </a>
-                            <!-- /LIGHTBOX LINK -->
-                            
-                            
-                            <!-- LIGHTBOX -->
-                            <div id="item-4-lightbox" class="work-lightbox">
-                               
-                               
-                                <img class="img-responsive" src="assets/img/work/item-4.jpg" alt="image">
-                                
-                                <h3>Starnation</h3>
-                                <p class="subline">UI/UX DESIGN</p>
-                                
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam semper faucibus eros, quis imperdiet sapien. Nam sodales nec risus nec interdum. Proin lobortis, ex condimentum ultricies eleifend, nisl nunc sollicitudin odio, eget egestas est turpis et metus. In non ligula quis mauris rutrum porta.</p>
-                                
-                                
-                            </div>
-                            <!-- /LIGHTBOX -->
-                            
-                            
-                        </div>
-                        <!-- /ITEM -->
-                        
-                        
+                    <!-- ANIMATION CONTAINER -->
+                    <div class="animation-container animation-fade-left" data-animation-delay="300">
+                        <p class="subline">Lorem ipsum dolor sit amet, consectetur adipiscing elit...</p>
                     </div>
-                    <!-- /SHOWCASE -->
-
-
-                </section>
-                <!-- /WORK -->
-                
-                
-                <!-- CONTACT -->
-                <section id="contact">
-
-
-                    <h3 class="headline scroll-animated-from-right">Contact Me.</h3>
+                    <!-- /ANIMATION CONTAINER -->
                     
-                    
-                    <!-- CONTACT LIST -->
-                    <ul class="contact-list">
-                       
-                        <li class="scroll-animated-from-right"><i class="fa fa-mobile" aria-hidden="true"></i>01572 115522</li>
-                        <li class="scroll-animated-from-right"><i class="fa fa-envelope-o" aria-hidden="true"></i>johnmiller@mail.com</li>
-                        
-                    </ul>
-                    <!-- /CONTACT LIST -->
-                    
-                    
-                    <!-- CONTACT FORM --> 
-                    <form id="contact-form" action="assets/php/contact.php" method="post">
+                    <!-- ANIMATION CONTAINER -->
+                    <div class="animation-container animation-fade-up" data-animation-delay="600">
+                        <a href="#about" class="smooth-scroll">Learn More<i class="fa fa-angle-down" aria-hidden="true"></i></a>
+                    </div>
+                    <!-- /ANIMATION CONTAINER -->
+                </div>
+                <!-- /CONTAINER MID -->
+            </section>
+            <!-- /INTRO -->
 
-                       
-                        <input id="contact-form-name" type="text" name="name" class="form-control scroll-animated-from-right" placeholder="* Your Name">
-                        
-                        <input id="contact-form-email" type="text" name="email" class="form-control scroll-animated-from-right" placeholder="* Your Email">
-                        
-                        <!-- PHANTOM ELEMENT ( HONEYPOT CAPTCHA FOR SECURITY ) -->
-                        <div class="fhp-input"><input id="contact-form-company" type="text" name="company" class="form-control"></div>
-                        <!-- /PHANTOM ELEMENT ( HONEYPOT CAPTCHA FOR SECURITY ) -->
-                        
-                        <textarea id="contact-form-message" name="message" class="form-control scroll-animated-from-right" placeholder="* Your Message"></textarea>
-                        
-                        <button type="submit" class="form-control scroll-animated-from-right">Send Mail</button>
-                        
-                        <div class="success-message">* The Email was Sent Successfully!</div>
+            <!-- ABOUT -->
+            <section id="about">
+                <h3 class="headline scroll-animated-from-right">Why I can help you.</h3>
+                <p class="scroll-animated-from-right">Lorem ipsum dolor sit amet, consectetur adipiscing elit...</p>
+                <p class="scroll-animated-from-right">Duis consectetur massa sit amet nibh rhoncus, at pharetra ligula aliquet...</p>
+            </section>
+            <!-- /ABOUT -->
 
-                   
-                    </form>
-                    <!-- /CONTACT FORM --> 
+            <!-- SERVICE -->
+            <section id="service">
+                <h3 class="headline scroll-animated-from-right">What I can do for you.</h3>
+                <!-- SERVICE LIST -->
+                <ul class="services-list">
+                    <li class="scroll-animated-from-right"><i class="fa fa-robot-o" aria-hidden="true"></i>Machine Learning</li>
+                    <li class="scroll-animated-from-right"><i class="fa fa-database" aria-hidden="true"></i>Data Science</li>
+                    <li class="scroll-animated-from-right"><i class="fa fa-chart-bar" aria-hidden="true"></i>Data Analysis</li>
+                    <li class="scroll-animated-from-right"><i class="fa fa-code" aria-hidden="true"></i>Python Programming</li>
+                    <li class="scroll-animated-from-right"><i class="fa fa-bar-chart" aria-hidden="true"></i>Statistical Modeling</li>
+                </ul>
+                <!-- /SERVICE LIST -->
+            </section>
+            <!-- /SERVICE -->
 
+            <!-- WORK -->
+            <section id="work">
+                <h3 class="headline scroll-animated-from-right">My latest Work.</h3>
+                <!-- SHOWCASE -->
+                <div class="showcase">
+                    <!-- ITEM 1 -->
+                    <div class="item scroll-animated-from-right">
+                        <a href="#" data-featherlight="#item-1-lightbox">
+                            <!-- INFO -->
+                            <div class="info">
+                                <!-- CONTAINER MID -->
+                                <div class="container-mid">
+                                    <h5>Fashion Inc.</h5>
+                                    <p>Data Analysis</p>
+                                </div>
+                                <!-- /CONTAINER MID -->
+                            </div>
+                            <!-- /INFO -->
+                            <div class="background-image" style="background-image: url(assets/img/work/item-1.jpg)"></div>
+                        </a>
+                        <!-- LIGHTBOX 1 -->
+                        <div id="item-1-lightbox" class="work-lightbox">
+                            <img class="img-responsive" src="assets/img/work/item-1.jpg" alt="image">
+                            <h3>Fashion Inc.</h3>
+                            <p class="subline">Data Analysis</p>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit...</p>
+                        </div>
+                        <!-- /LIGHTBOX 1 -->
+                    </div>
+                    <!-- /ITEM 1 -->
+                    <!-- ... (similar structure for other items) ... -->
+                </div>
+                <!-- /SHOWCASE -->
+            </section>
+            <!-- /WORK -->
 
-                </section>
-                <!-- /CONTACT -->
-                
-                
-                <!-- FOOTER -->
-                <section id="footer">
-                
-                   
-                    <!-- SOCIAL ICONS -->
-                    <ul class="social-icons scroll-animated-from-right">
-                       
-                       
-                        <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                        <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                        <li><a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
-                        <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-                        
-                        
-                    </ul>
-                    <!-- /SOCIAL ICONS -->
-                    
+            <!-- CONTACT -->
+            <section id="contact">
+                <h3 class="headline scroll-animated-from-right">Contact Me.</h3>
+                <!-- CONTACT LIST -->
+                <ul class="contact-list">
+                    <li class="scroll-animated-from-right"><i class="fa fa-mobile" aria-hidden="true"></i>01572 115522</li>
+                    <li class="scroll-animated-from-right"><i class="fa fa-envelope-o" aria-hidden="true"></i>johnmiller@mail.com</li>
+                </ul>
+                <!-- /CONTACT LIST -->
+                <!-- CONTACT FORM --> 
+                <form id="contact-form" action="assets/php/contact.php" method="post">
+                    <!-- ... (form input fields and submit button) ... -->
+                </form>
+                <!-- /CONTACT FORM --> 
+            </section>
+            <!-- /CONTACT -->
 
-                    <p class="scroll-animated-from-right">© 2017 Your Brand | Design by <a href="https://templatefoundation.com">Template Foundation</a></p>
-
-
-                </section>
-                <!-- /FOOTER -->
-
-
-            </div>
-            <!-- /CONTENT AREA INNER -->
-
-
+            <!-- FOOTER -->
+            <section id="footer">
+                <!-- SOCIAL ICONS -->
+                <ul class="social-icons scroll-animated-from-right">
+                    <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                    <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                    <li><a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
+                    <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                </ul>
+                <!-- /SOCIAL ICONS -->
+                <p class="scroll-animated-from-right">© 2017 Your Brand | Design by <a href="https://templatefoundation.com">Template Foundation</a></p>
+            </section>
+            <!-- /FOOTER -->
         </div>
-        <!-- /CONTENT AREA -->
-        
-        
-        <!-- JAVASCRIPTS -->
-        <script type="text/javascript" src="assets/js/plugins.js"></script>
-        <script type="text/javascript" src="assets/js/main.js"></script>
-   
-   
-    </body> 
+        <!-- /CONTENT AREA INNER -->
+    </div>
+    <!-- /CONTENT AREA -->
     
-    
+    <!-- JAVASCRIPTS -->
+    <script type="text/javascript" src="assets/js/plugins.js"></script>
+    <script type="text/javascript" src="assets/js/main.js"></script>
+</body>
 </html>
